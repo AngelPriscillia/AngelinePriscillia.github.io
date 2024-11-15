@@ -15,10 +15,8 @@ Nama saya Angeline Priscillia berumur 19 tahun, saya saat ini sedang  mengambil 
 
 ## Skills
 
-- **Languages:** JavaScript, Python, C++, Java
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Blender, Ibispaint, 
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Aplikasi:** Blender, Ibispaint
+- **Hobi:** Menggambar
 
 ---
 
